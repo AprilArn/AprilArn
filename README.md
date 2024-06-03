@@ -8,7 +8,7 @@ Touch me:
 - [Discord](599247125318205440).
 - [Email](urjelarnoldb@gmail.com).
 - [LinkedIn](https://www.linkedin.com/in/urjelarnoldbenamen/).
-- [Twitter](https://twitter.com/AprilArn_).
+- [Twitter](https://twitter.com/AprilArn).
 
 <p align="left">
 <a href="https://github.com/AprilArn">
