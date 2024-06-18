@@ -56,6 +56,7 @@
 ---
 
 <br>
+<br>
 <!-- Socials -->
 <p align="center">
   <a href="https://discord.gg/599247125318205440">
