@@ -1,4 +1,5 @@
 <!-- **AprilArn/AprilArn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Bio -->
 <p align="right">
     <img src="https://visitcount.itsvg.in/api?id=AprilArn&icon=5&color=6" alt="Visit Count"/>
 </p>
@@ -8,7 +9,10 @@
 </p>
 <br>
 
+---
 
+<br>
+<!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#"/>
@@ -36,7 +40,10 @@
 </p>
 <br>
 
+---
 
+<br>
+<!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AprilArn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -46,8 +53,10 @@
 </p>
 <br>
 
-
 ---
+
+<br>
+<!-- Socials -->
 <p align="center">
   <a href="https://discord.gg/599247125318205440">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
